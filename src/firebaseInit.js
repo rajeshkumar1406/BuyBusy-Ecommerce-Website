@@ -5,7 +5,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA7HWgGCpkQKMWFRkJZdAh_TGTrYTTlezAfdfvdvxcxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  apiKey: "AIzaSyA7HWgGCpkQKMWFRkJZdAh_YTTlezAfdfvdvxcxxx xxxxxxxxxxxxxxxxxxxx don't copy this xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   authDomain: "buybusy-redux-4d59c.firebaseapp.com",
   projectId: "buybusy-redux-4d59c",
   storageBucket: "buybusy-redux-4d59c.appspot.com",
